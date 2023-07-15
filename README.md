@@ -1,6 +1,6 @@
 # Projeto de Autenticação de Usuário em Java
 
-Este projeto em Java tem como objetivo implementar um sistema de autenticação de usuário.
+Este projeto em Java tem como objetivo criar um sistema de autenticação de usuário.
 
 ## Funcionalidades
 
