@@ -2,10 +2,6 @@
 
 This Java project aims to create a user authentication system.
 
-## Features
-
-The project offers the following features:
-
 ## Technologies Used
 
 The project is developed using the following technologies:
