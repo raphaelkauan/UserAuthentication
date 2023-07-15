@@ -1,22 +1,22 @@
-# Projeto de Autenticação de Usuário em Java
+# Java User Authentication Project 
 
-Este projeto em Java tem como objetivo criar um sistema de autenticação de usuário.
+This Java project aims to create a user authentication system.
 
-## Funcionalidades
+## Features
 
-O projeto oferece as seguintes funcionalidades:
+The project offers the following features:
 
-## Tecnologias Utilizadas
+## Technologies Used
 
-O projeto é desenvolvido utilizando as seguintes tecnologias:
+The project is developed using the following technologies:
 
-- Java: Linguagem de programação utilizada.
-- MySQL: Banco de dados relacional.
+- Java: Programming language used.
+- MySQL: Relational database.
 
-## Estrutura do Projeto
+## Project Structure
 
-O projeto segue uma estrutura padrão de projeto Java:
+The project follows a standard Java project structure:
 
-  - `DAO`: Contém os objetos de acesso aos dados.
-  - `DTO`: Contém os objetos de transferência de dados.
-  - `VIEW`: Contém os componentes da interface do usuário.
+- `DAO`: Contains data access objects.
+- `DTO`: Contains data transfer objects.
+- `VIEW`: Contains user interface components.
